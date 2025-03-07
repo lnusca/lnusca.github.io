@@ -4,7 +4,34 @@
     <title>My Superheros</title>
     <meta charset="UTF-8">
     <style>
-    
+      table
+      {
+        border-collapse: collapse;
+      }
+      table, th, td
+      {
+        border:2px darkgray dotted;
+        padding: 5px;
+      }
+      th
+      {
+        width: 500px;
+      }
+      table img
+      {
+        width: 100px;
+        display:block;
+        margin:auto; 
+      }
+      tbody tr:nth-child(odd)
+      {
+        background-color: lightgoldenrodyellow;
+      }
+      #box:hover
+      {
+        font-size: 46pt;
+      }
+
     </style>
   </head>
   <body>
@@ -19,6 +46,21 @@
           <th>Weakness</th>
         </tr>
       </thead>
+      <tbody>
+        <tr>
+          <th>Wolverine</th>
+          <td>Logan</td>
+          <td><a href="images/wolverine.jpg"><img src="images/wolverine.jpg" alt="wolverine"></td>
+          <td>Regeneration</td>
+          <td>Emotional</td>
+        </tr>
+        <tr>
+          <th id="box">Dr. Manhattan</th>
+          <td>Jon Osterman</td>
+          <td><a href="images/Dr.Manhattan.jpg"><img src="images/Dr.Manhattan.jpg" alt="Big Man"></a></td>
+          <td>Reality Alteration AKA "he's God</td>
+        </tr>
+      </tbody>
     </table>
     <p>Body text</p>
   </body>  
