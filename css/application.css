@@ -3,12 +3,13 @@
     background-image: url("images/hearts.jpg");
     
     background-repeat: ;
+    background-color: pink;
 
 }
 @font-face
 {
     font-family: coolfont;
-    src: url("css/images/")
+    src: url("fonts/Atop.ttf")
 }
 h1
 {
