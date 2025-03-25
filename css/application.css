@@ -1,0 +1,16 @@
+:root
+{
+    background-image: url("images/hearts.jpg");
+    
+    background-repeat: ;
+
+}
+@font-face
+{
+    font-family: coolfont;
+    src: url("css/images/")
+}
+h1
+{
+    font-family: coolfont;
+}
