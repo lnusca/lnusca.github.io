@@ -2,9 +2,8 @@
 {
     background-image: url("images/hearts.jpg");
     
-    background-repeat: ;
+    background-repeat: repeat ;
     background-color: pink;
-
 }
 @font-face
 {
@@ -25,7 +24,44 @@ p
 {
     font-family:monday ;
 }
-div img
+p img
 {
     width: 200px;
+}
+#hover:hover
+{
+    width: 300px;
+}
+section
+{
+    margin-left: 55px;
+    margin-right: 55px;
+    border: 2px;
+}
+#hover
+{
+    float: right;
+}
+#sad
+{
+    width: 50px;
+}
+strong
+{
+    text-decoration-color: blue;
+    text-size-adjust: 59px;
+}
+h1
+{
+    color: red;
+    font-size: 56pt;
+    text-align: center;
+}
+th, td
+{
+   border: 2px rgb(187, 32, 32);
+}
+td img
+{
+    width: 25px; ;
 }
