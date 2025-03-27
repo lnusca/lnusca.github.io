@@ -11,7 +11,21 @@
     font-family: coolfont;
     src: url("fonts/Atop.ttf")
 }
-h1
+h1, h2
 {
     font-family: coolfont;
+}
+@font-face
+{
+    font-family: monday;
+    src: url("fonts/mondayfeeling.ttf")
+}
+
+p
+{
+    font-family:monday ;
+}
+div img
+{
+    width: 200px;
 }
