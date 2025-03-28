@@ -1,9 +1,9 @@
 :root
 {
-    background-image: url("images/hearts.jpg");
+    background-color:  rgb(250, 194, 202);
     
-    background-repeat: repeat ;
-    background-color: pink;
+    
+  
 }
 @font-face
 {
@@ -13,6 +13,8 @@
 h1, h2
 {
     font-family: coolfont;
+    font-weight: 200;
+
 }
 @font-face
 {
@@ -57,11 +59,37 @@ h1
     font-size: 56pt;
     text-align: center;
 }
-th, td
+td
 {
-   border: px black
+   border-bottom: black;
 }
 td img
 {
     width: 25px; ;
+}
+th
+{
+    font-family: coolfont;
+    font-weight: 200;
+    color: rgb(129, 12, 12)
+}
+nav ul li
+{
+    border: 1px ;
+    text-align: center;
+    font-family: coolfont;
+    list-style-type: none;
+}
+#Grace img
+{
+    width: 200px;
+    float: left;
+    margin-right: 4%;
+    border: black;
+}
+h3
+{
+    font-family: coolfont;
+    color: red;
+    font-weight: 200;
 }
