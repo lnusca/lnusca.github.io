@@ -1,16 +1,20 @@
 :root
 {
-    background-color:  rgb(250, 194, 202);
+    background-color:  rgb(163, 90, 101);
     
-    
+    background-image: none;
   
+}
+body
+{
+    margin: 5px;
 }
 @font-face
 {
     font-family: coolfont;
     src: url("fonts/Atop.ttf")
 }
-h1, h2
+h1,
 {
     font-family: coolfont;
     font-weight: 200;
