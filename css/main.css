@@ -1,0 +1,45 @@
+:root
+{
+    --pukeyellow: RGB(204,200,0);
+    --bloodcream: RGB(199,75,76);
+    --royal: RGB(178,102,255);
+    color: var(--pukeyellow);
+    background-color:var(--pukeyellow);
+    text-align: center;
+}
+@font-face
+{
+    font-family: taco;
+    src: url("fonts/taco.ttf")
+}
+
+
+h1
+{
+    font-size: 48pt;
+    text-decoration: underline seagreen;
+    color: var(--royal);
+
+    font-family: taco;
+}
+
+img
+{
+    margin: auto;
+    display: block;
+}
+
+table
+{
+    margin: auto;
+}
+p
+{
+    color: var(--bloodcream)
+    
+}
+body
+{
+    background-image: url("sad.png");
+}
+
