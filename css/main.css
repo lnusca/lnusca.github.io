@@ -27,9 +27,15 @@ h1
 
 }
 
-h2{
+h2, table
+{
     font-family: 'Courier New', Courier, monospace
 
+}
+th
+{
+    font-size: xx-large;
+    color: blue;
 }
 img
 {
@@ -61,3 +67,9 @@ body
 {
     font-family: taco;
 }
+a
+{
+    font-size: xx-large;
+    font-style: italic;
+}
+
