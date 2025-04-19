@@ -1,0 +1,35 @@
+@font-face {
+    font-family: munday;
+    src: url(Themundayfreeversion-Regular.ttf);
+}
+
+@font-face{
+    font-family: cryp;
+    src: url(Creative\ Typography.ttf)
+}
+
+h1, h2, h3
+{
+    font-family: munday;
+}
+ul 
+{
+    list-style-type: square;
+}
+body
+{
+    background-color: bisque;
+}
+img
+{
+    width: 30%;
+    height: 250px;
+}
+#one
+{
+    float: left;
+}
+#three
+{
+    float: right
+}
