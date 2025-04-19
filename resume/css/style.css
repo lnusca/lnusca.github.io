@@ -1,0 +1,18 @@
+@font-face {
+    font-family: munday;
+    src: url(Themundayfreeversion-Regular.ttf);
+}
+
+@font-face{
+    font-family: cryp;
+    src: url(Creative\ Typography.ttf)
+}
+
+h1, h2
+{
+    font-family: munday;
+}
+ul 
+{
+    list-style-type: square;
+}
