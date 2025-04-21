@@ -7,10 +7,14 @@
     font-family: cryp;
     src: url(Creative\ Typography.ttf)
 }
-@font-face {
-    font-family: munday;
-    src: url(Themundayfreeversion-Regular.ttf);
+h1
+{
+    font-size: 80px;
+    font-variant: small-caps;
+    font-weight: bold;
+    text-align: center;
 }
+
 
 h1, h2
 {
@@ -24,9 +28,10 @@ body
 {
     background-color: antiquewhite ;
 }
-p, li
+p, li,td,th
 {
     font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
 }
 table, th, td
 {
@@ -52,4 +57,14 @@ section
 {
     border-top: 4px dotted blue;
     border-bottom: 4px dotted red;
+}
+body
+{
+    background-image: url("lines.png"); 
+    background-image: opacity: 0.5;
+   
+}
+#trim
+{
+    font-size: larger;
 }
