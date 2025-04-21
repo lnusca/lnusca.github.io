@@ -24,3 +24,32 @@ body
 {
     background-color: antiquewhite ;
 }
+p, li
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+table, th, td
+{
+    border:1px solid ;
+}
+img
+{
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  
+}
+#charlie
+{
+    float: left;
+}
+#bruce
+{
+    float: right;
+}
+section 
+{
+    border-top: 4px dotted blue;
+    border-bottom: 4px dotted red;
+}
