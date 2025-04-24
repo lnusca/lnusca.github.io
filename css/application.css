@@ -14,7 +14,7 @@ body
     font-family: coolfont;
     src: url("fonts/Atop.ttf")
 }
-h1,
+h1, h2
 {
     font-family: coolfont;
     font-weight: 200;
