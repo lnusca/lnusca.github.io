@@ -59,7 +59,7 @@ p
 }
 body
 {
-    background: url("sad.png"), url("happy.jpg");
+    background:  url("happy.jpg");
     background-position: right bottom, left top;
 
 }
