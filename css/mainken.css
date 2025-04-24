@@ -1,15 +1,116 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Template</title>
-    <meta charset="UTF-8">
-    <style>
-    
-    </style>
-  
-  </head>
-  <body>
-    <h1>Page Title</h1>
-    <p>Body text</p>
-  </body>  
-</html>
+:root
+{
+  color: rgb(0, 0, 255);
+  background-color: gray;
+  text-align: center;
+}
+
+@font-face
+{
+    font-family: coolfont;
+    src: url("Arvo-Regular.ttf")
+}
+@font-face
+{
+    font-family: dragonhunter;
+    src: url("OpenSans-VariableFont_wdth,wght.ttf")
+}
+
+.title
+{
+  color: gold;
+}
+
+h1
+{
+  font-size: 48pt;
+  text-decoration: underline;
+  color: gold;
+  font-size: auto;
+}
+
+img
+{
+  margin: auto;
+  display: block;
+  border-radius: 25vw;
+}
+
+img 
+{
+  opacity: 1;
+}
+
+img:hover
+{
+  transform: scaleX(-1);
+  animation-iteration-count: infinite;
+}
+
+
+
+table
+{
+    margin: auto;
+}
+
+h1 
+{
+    width: 80vw;  
+}
+
+h2
+{
+    width: 80vw;
+}
+
+p
+{
+    width: 80vw;
+}
+
+img 
+{
+    width: 80vw;
+}
+
+.p2
+{
+  border-style: solid;
+  border-color: gray;
+  font-family: dragonhunter;
+}
+
+.a 
+{
+    font-family: coolfont;
+}
+
+a:link 
+{
+  color: red;
+}
+
+a:visited 
+{
+  color: green;
+}
+
+a:hover 
+{
+  color: hotpink;
+}
+
+.ul 
+{
+    font-family: coolfont;
+}
+
+.ol 
+{
+    font-family: dragonhunter;
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> a2fb52adf8ef0e7989e13f93efe1d0140fd8cba0
