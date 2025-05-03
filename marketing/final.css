@@ -1,7 +1,7 @@
 :root
 {
-    color: rgb(0, 0, 255);
-  background-color: gray;
+    color: rgb(220, 220, 231);
+  background-color: rgb(6, 18, 48);
   text-align: center;
 }
 @font-face 
@@ -19,6 +19,21 @@ h1
 }
 img
 {
-    width: 130px;
-    border-radius: 10px 10px 10px 10px;
+    width: 22vw;
+    
+    Border-radius: 10px 10px 10px 10px;
+}
+th
+{
+    border-bottom: 2pt crimson solid ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+}
+#logo
+{
+    float: left;
+}
+#two
+{
+    float: inline-end;
 }
