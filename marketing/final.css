@@ -26,8 +26,8 @@ img
 th
 {
     border-bottom: 2pt crimson solid ;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5vw;
 }
 #logo
 {
@@ -36,4 +36,19 @@ th
 #two
 {
     float: inline-end;
+}
+h2
+{
+    font-family: final_header;
+}
+td
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+span
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3vw;
+    color: firebrick;
+    font-weight:bolder;
 }
