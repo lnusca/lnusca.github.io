@@ -11,11 +11,11 @@
 }
 h1
 {
-    font-family: final_header;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .play
 {
-    font-size: 55pt;
+    font-size: 12vw;
 }
 img
 {
@@ -26,7 +26,8 @@ img
 th
 {
     border-bottom: 2pt crimson solid ;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-right: 2pt crimson solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 5vw;
 }
 #logo
