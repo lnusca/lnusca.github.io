@@ -4,3 +4,21 @@
   background-color: gray;
   text-align: center;
 }
+@font-face 
+{
+    font-family: final_header ;
+    src: url(HadleyPavlinaDemoRegular.ttf);
+}
+h1
+{
+    font-family: final_header;
+}
+.play
+{
+    font-size: 55pt;
+}
+img
+{
+    width: 130px;
+    border-radius: 10px 10px 10px 10px;
+}
