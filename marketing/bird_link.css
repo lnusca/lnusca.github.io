@@ -1,7 +1,7 @@
 :root
 {
     color: rgb(220, 220, 231);
-  background-color: rgb(6, 18, 48);
+  background-color: rgb(23, 28, 39);
   text-align: center;
 }
 h1
@@ -11,7 +11,8 @@ h1
 h2
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 27pt;
+    font-size: 23pt;
+    
 }
 iframe
 {
@@ -21,4 +22,36 @@ iframe
 p
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#left
+{
+    position: relative;
+    right: 150px;
+}
+button
+{    
+background-color: #08041f; 
+  border: 15px;
+  color: rgb(206, 185, 185);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: rgb(220, 220, 231);
+  display: inline-block;
+  font-size: 16px;
+
+}
+ol
+{
+    float: left;
+}
+img
+{
+    width: 35vw;
+    
+    Border-radius: 10px 10px 10px 10px;
+}
+th
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
 }
