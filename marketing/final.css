@@ -41,7 +41,7 @@ th
 h2
 {
     font-family: final_header;
-    font-size: 8vw;
+    font-size: 25pt;
 }
 td
 {
@@ -61,6 +61,6 @@ span
 #res
 {
    
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
