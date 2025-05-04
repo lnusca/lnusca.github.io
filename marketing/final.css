@@ -57,13 +57,8 @@ span
     font-weight:bolder;
 }
 
-#res
-{
-   
-    margin-left: 20px;
-    margin-right: 20px;
-}
+
 #line
 {
-    border-bottom: 1px white darkgray solid;
+    border-bottom: 1px white solid;
 }
