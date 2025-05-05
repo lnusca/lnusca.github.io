@@ -63,3 +63,7 @@ th
     font-size: 30pt;
     border: 1dvh white solid;
 }
+table
+{
+    border-bottom: 2px white solid;
+}
