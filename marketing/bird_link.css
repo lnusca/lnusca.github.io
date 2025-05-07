@@ -50,10 +50,10 @@ img
     width: 35vw;
     
     
-    Border-radius: 10px 10px 10px 10px;
+    Border-radius: 20px ;
 }
 th
-{
+{ 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: x-large;
 }
@@ -67,7 +67,11 @@ table
 {
     border-bottom: 2px white solid;
 }
-.pad
+p
 {
     padding: 25px 55px;
+}
+button 
+{
+    border-radius: 20px;
 }
