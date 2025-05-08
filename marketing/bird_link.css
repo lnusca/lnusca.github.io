@@ -4,6 +4,9 @@
   background-color: rgb(23, 28, 39);
   text-align: center;
   width: 95vw;
+  border:  15px white solid;
+  border-radius: 15px;
+  
 }
 h1
 {
@@ -20,14 +23,13 @@ iframe
     border-radius: 25px;
     width: 66vw;
 }
-p
-{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+
 #left
 {
-    position: relative;
-    right: 150px;
+    
+    float: left;
+    width: 300px;
+    
 }
 button
 {    
