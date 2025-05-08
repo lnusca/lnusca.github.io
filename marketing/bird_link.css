@@ -31,13 +31,13 @@ p
 }
 button
 {    
-background-color: #08041f; 
+background-color: #e2e0ee; 
   border: 15px;
-  color: rgb(206, 185, 185);
+  
   padding: 15px 32px;
   text-align: center;
-  text-decoration: rgb(220, 220, 231);
-  display: inline-block;
+  
+  
   font-size: 16px;
 
 }
@@ -75,4 +75,10 @@ p
 button 
 {
     border-radius: 20px;
+}
+a
+{
+    color: rgb(5, 5, 48);
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
