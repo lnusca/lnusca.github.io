@@ -49,7 +49,7 @@ ol
 }
 img
 {
-    width: 35vw;
+    width: 130px;
     
     
     Border-radius: 20px ;
@@ -83,4 +83,33 @@ a
     color: rgb(5, 5, 48);
     font-weight: 800;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	background-color:#ffffff;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#18063b;
+	font-family:Verdana;
+	font-size:17px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	background-color:#f6f6f6;
+}
+.table_component table {
+   
+    height: 100%;
+    width: 90%;
+    
+   
+    border-spacing: 1px;
+  
 }
