@@ -54,7 +54,7 @@ td
 span
 {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 3vw;
+    font-size: 8pt;
     color: rgb(248, 242, 242);
     font-weight:bolder;
 }
@@ -63,4 +63,8 @@ span
 #line
 {
     border-bottom: 1px white solid;
+}
+#res
+{
+    width: 91vw;
 }
